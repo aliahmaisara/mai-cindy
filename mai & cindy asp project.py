@@ -64,6 +64,3 @@ plt.show()
 # top 3
 total_sum_df = total_sum_df.sort_values(ascending=False)
 print(total_sum_df.head(3))
-
-
-
